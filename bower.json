@@ -1,0 +1,22 @@
+{
+  "name": "sticky-panel",
+  "description": "Sticky panel.",
+  "main": [
+    "js/jshashtable-2.1_src.js",
+  ],
+
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/PJEstrada/sticky-panel"
+  },
+  "authors": [
+    "donnyv"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": false
+}
